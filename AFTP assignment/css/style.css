@@ -1,0 +1,43 @@
+body {background-color: #f4f4f4;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  padding: 20px;
+}
+  .yellowbox {
+    background-color: #e9cb20; padding: 20px;
+  }
+
+.bodycontent {width: 90%;
+  background-color: #f4f4f4;
+  padding: 20px;
+
+}
+
+h1 {
+  background-color: #e9cb20;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  padding: 20px;
+}
+
+
+.sidebar {background-color: #666666;
+color: #ffffff;
+width: 400px;
+float:right;
+margin: 0 0 0 20px;
+}
+
+table {font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: normal;
+  color: #ffffff;
+  background-color: #666666;
+}
+  
+
+
+
+
